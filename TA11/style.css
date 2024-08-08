@@ -1,0 +1,20 @@
+.impares{
+    background-color: pink;
+    font-family: 'Verdana', 'sans-serif', 'DejaVu Sans';
+}
+
+#elemento2{
+    color: blue;
+    font-size: 36px;
+  
+}
+
+.elemento3{
+    font-size: 24px;
+}
+
+#elemento4{
+    font-size: 24px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
